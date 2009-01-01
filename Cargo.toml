@@ -1,0 +1,8 @@
+[package]
+name = "unblock-bitcoin"
+version = "0.0.0"
+authors = ["Unblock Bitcoin <unblock-bitcoin@pm.me>"]
+description = "Simple fast blockchain verifier."
+license = "Unlicense"
+
+[dependencies]
